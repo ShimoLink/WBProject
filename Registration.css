@@ -1,0 +1,83 @@
+.u-section-1 {
+  background-image: linear-gradient(#478ac9, #db545a);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 770px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 800;
+  font-size: 3rem;
+  margin: 80px 345px 0 auto;
+}
+
+/*ARROW IMAGE*/
+.u-section-1 .u-icon-1 {
+  width: 36px;
+  height: 36px;
+  background-image: none;
+  margin: 37px auto 0 308px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 431px;
+  box-shadow: 5px 5px 20px 0 grey;
+  background-image: none;
+  margin: -36px 345px 0 372px;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-top: 20px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  margin-left: 100px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none none solid;
+  margin: 27px auto 60px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+ .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 300px;
+    margin-right: 290px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    color: black;
+    margin-top: -186px;
+    margin-left: 316px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 142px;
+    margin-left: 272px;
+    margin-right: 245px;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: -150px;
+  }
+}
+
+/*SUBMIT BUTTON*/
+.submit-btn{
+  border-radius: 30px;
+  background-color: green;
+  color: white;
+  margin-left: 110px;
+  margin-top: 30px;
+  font-size: 19px;
+
+}
